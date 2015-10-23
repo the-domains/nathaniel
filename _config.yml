@@ -1,7 +1,7 @@
 name: Nathaniel
 favicon: null
-layout_spectrum: 0.13639216613955796
-typography_spectrum: 0.5556326971855015
+layout_spectrum: 0.29255
+typography_spectrum: 0.73581
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#2f2f2f'
     - '#8a8a8a'
   brandStrength: 0.75
-  lightness: 0.1165000507608056
-  saturation: 0.1317930375225842
+  lightness: 0.5625
+  saturation: 0.6875
   rhythmicContrast: 0.8158747951965779
 purpose: []
