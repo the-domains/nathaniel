@@ -1,0 +1,23 @@
+name: Nathaniel
+favicon: null
+layout_spectrum: 0.13639216613955796
+typography_spectrum: 0.5556326971855015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2812665067613125
+  lightness: 0.1165000507608056
+  saturation: 0.1317930375225842
+  rhythmicContrast: 0.8158747951965779
+purpose: []
