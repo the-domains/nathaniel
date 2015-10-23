@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Nathaniel]]></title>
         <description><![CDATA[Nathaniel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nathaniel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 06:28:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 23 Oct 2015 06:31:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nathaniel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Shave & Avoid Razor Bumps]]></title>
+            <description><![CDATA[<article><h1>How to Shave & Avoid Razor Bumps</h1><p>Are you sick of getting those irritating and insightful razor bumps after you shave? For a guy aiming for the professional look, few things look better than a closely well shaven gentleman in a suit. As great as you may look on the first day, the risk of skin irritations showing up is greatly increased based on the way you shave.</p><img src="http://thegentlemanleague.com/wp-content/uploads/2015/03/bigstock-Shaving-Is-Fun-82520990.jpg"></article>]]></description>
+            <link>http://thegentlemanleague.com/how-to-shave-avoid-razor-bumps/</link>
+            <guid isPermaLink="false">2020199c-e55b-44ea-9dd1-8ba4cc1d3134</guid>
+            <pubDate>Fri, 23 Oct 2015 06:31:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Day I Occupied Myself]]></title>
             <description><![CDATA[<article><h1>The Day I Occupied Myself</h1><p>Friday, August 8, 2014 Today is the day I decided to occupy myself, instead of spending the rest of my time in an occupation. Just 24 hours ago, I was a manager of a sales force at the top company in its industry, spending over 65 hours a week on a rotating schedule, making someone else's empire stronger.</p><img src="http://thegentlemanleague.com/wp-content/uploads/2014/08/rainy-day.jpg"></article>]]></description>
