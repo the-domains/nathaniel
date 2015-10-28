@@ -17,8 +17,8 @@ keywords:
   - mind
   - moment
 description: "I'm willing to bet you dollars to donuts that at some point today you're going to think about your success. In whatever area you choose or consider important, there is going to be a moment where it hits you. In that moment, you're going to assess your level of accomplishment or achievement in that area."
-datePublished: '2015-10-23T06:36:12.544Z'
-dateModified: '2015-10-23T06:18:10.136Z'
+datePublished: '2015-10-28T04:15:36.262Z'
+dateModified: '2015-10-23T08:22:37.597Z'
 author:
   - name: TheGentlemanLeague
     url: null
