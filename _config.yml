@@ -1,7 +1,7 @@
 name: Nathaniel
 favicon: null
 layout_spectrum: 0.16216
-typography_spectrum: 0.71779
+typography_spectrum: 0.75082
 title: 'Freedom & Power over Money, Relationships, & Lifestyle.'
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#ffffff'
     - '#2f2f2f'
     - '#8a8a8a'
-  brandStrength: 0.8125
+  brandStrength: 0.5
   lightness: 0.4375
   saturation: 0.6875
   rhythmicContrast: 0.5
